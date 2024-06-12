@@ -3,3 +3,4 @@ allanpk716/chinesesubfinder
 linuxserver/jackett
 nyanmisaka/jellyfin
 sourcegraph/server:5.0.6
+sourcegraph/postgres-12-alpine:3.41.1
