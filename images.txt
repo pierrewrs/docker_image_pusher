@@ -2,4 +2,4 @@ alpine
 allanpk716/chinesesubfinder
 linuxserver/jackett
 nyanmisaka/jellyfin
-sourcegraph/server:5.4.5099
+sourcegraph/server:5.0.6
