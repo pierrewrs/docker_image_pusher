@@ -5,4 +5,4 @@ nyanmisaka/jellyfin
 sourcegraph/server:5.0.6
 sourcegraph/postgres-12-alpine:3.41.1
 sourcegraph/migrator:5.0.6
-sonarqube:9.0.1-community
+sonarqube:10.6.0-community
