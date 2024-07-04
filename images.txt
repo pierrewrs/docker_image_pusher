@@ -3,7 +3,5 @@ postgres:12
 allanpk716/chinesesubfinder
 linuxserver/jackett
 nyanmisaka/jellyfin
-sourcegraph/server:5.0.6
-sourcegraph/postgres-12-alpine:3.41.1
-sourcegraph/migrator:5.0.6
-sonarqube:8.9-community
+sourcegraph/server
+sonarqube:lts-community
