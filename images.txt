@@ -3,5 +3,5 @@ postgres:12
 allanpk716/chinesesubfinder
 linuxserver/jackett
 nyanmisaka/jellyfin
-sourcegraph/server
+sourcegraph/server:5.4
 sonarqube:lts-community
