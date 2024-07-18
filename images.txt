@@ -5,3 +5,4 @@ linuxserver/jackett
 nyanmisaka/jellyfin
 sourcegraph/server:5.4.7826
 sonarqube:lts-community
+sonarsource/sonar-scanner-cli:10
